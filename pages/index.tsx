@@ -55,7 +55,7 @@ export default () => {
         >
           <Flex flexDirection="column" justifyContent="space-between">
             <Heading as="h1" p={3} fontSize={[2, 3]} fontWeight={1}>
-              Senior Software Engineer and Consultant.
+              I'm a Senior Software Engineer and Consultant.
               <br />I love to help people by creating tools using the Web
               Platform and the cloud.
             </Heading>
