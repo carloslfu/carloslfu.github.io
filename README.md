@@ -7,7 +7,9 @@ Build is on branch `master` (required in order to work on Github Pages).
 
 ## Deploy to Github Pages
 
-```bash
-git checkout code
-git subtree push --prefix out origin master
-```
+- You should be in the branch `code`
+- `next build`
+- `next export`
+- Add `.nojekyll` file to `out` folder
+- `git push`
+- `git subtree push --prefix out origin master`
