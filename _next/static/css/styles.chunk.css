@@ -1,0 +1,18 @@
+html,body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  font: normal 16px / 27px "Roboto", sans-serif;
+  color: #85868c;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#__next {
+  height: 100%;
+}
+
+
+/*# sourceMappingURL=styles.chunk.css.map*/
